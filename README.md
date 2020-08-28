@@ -1,4 +1,4 @@
-# Python-API-Challenge
+# Python-API-Project
 
 After the analysis of the data we can observe the following trends
 
